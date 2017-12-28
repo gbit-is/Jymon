@@ -46,7 +46,7 @@ for line in messages.split('\n'): # Lets get to parsing the xymon data, split by
 		'testname'	:	testname,
 		'testcolor'	:	testcolor,
 		'testflags'	:	testflags,
-		'lanschange'	:	lastchange,
+		'lastchange'	:	lastchange,
 		'logtime'	:	logtime,
 		'validtime'	:	validtime,
 		'acktime'	:	acktime,
