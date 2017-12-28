@@ -14,6 +14,9 @@ This requires Python 2.7, Flask,a handful of python packages and an Xymon-client
 pip install -r requirements.txt
 chmod +x ./*.py
 ```
+### Debugging
+
+Instead of writing a lengthy post here, the code is heavily commented and serves as its own documentation
 
 ### Files
 
