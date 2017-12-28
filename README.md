@@ -51,6 +51,7 @@ $ sudo yum install ~/xymon-client*rpm
 To test the effiency of the system I tested it against a Xymon server containing 17K entities being reported
 
 xymon-client speed: 0.3 seconds
+
 jymon-client speed: 0.9 seconds 
 
 While jymon triples the speed it takes to deliver the data, doing it under a second with 17K entries feels acceptable
