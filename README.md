@@ -58,7 +58,7 @@ While jymon triples the speed it takes to deliver the data, doing it under a sec
 
 ## Authors
 
-* **Gbit** - [Gbit-Is](https://github.com/gbit-is)
+* **Gbit** - [Gbit-is](https://github.com/gbit-is)
 
 
 ## License
